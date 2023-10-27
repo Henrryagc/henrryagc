@@ -21,7 +21,7 @@
 
 
 ### Frontend  
-<div align="center" style="display:flex;gap:16px;">  
+<div align="center" style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
 <a href="https://material.angular.io/" target="_blank"><img style="margin: 10px" src="https://material.angular.io/assets/img/angular-material-logo.svg" alt="Angular Material" height="50" /></a>
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
@@ -113,7 +113,9 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henrryagc&hide_border=true&layout=compact" align="center" /></div>  
-
+<div></div>
+<br/>  
+<br/>  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=henrryagc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
@@ -136,20 +138,11 @@
 <br/>  
 
 <div align="center">
-            <a href="https://www.paypal.com/donate/?business=6PNRTG4Y74BNN&no_recurring=0&item_name=It+is+not+necessary+but+thank+you+for+supporting+me.&currency_code=USD" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="center"
-                />
-            </a>
+<a href="https://www.paypal.com/donate/?business=6PNRTG4Y74BNN&no_recurring=0&item_name=It+is+not+necessary+but+thank+you+for+supporting+me.&currency_code=USD" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" align="center"/></a>
   
-  https://www.paypal.com/donate/?business=6PNRTG4Y74BNN&no_recurring=0&item_name=It+is+not+necessary+but+thank+you+for+supporting+me.&currency_code=USD
-            <a href="https://www.buymeacoffee.com/henrryagc" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<div><a href="https://www.buymeacoffee.com/henrryagc" target="_blank" style="display: inline-block;"><img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" align="center"/></a></di>
+
+</div> <a href="https://www.paypal.com/donate/?business=6PNRTG4Y74BNN&no_recurring=0&item_name=It+is+not+necessary+but+thank+you+for+supporting+me.&currency_code=USD" /> </div>
 <br />
 
 ----
