@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Henrry, a full-time Java developer 👨‍💻 working remotely 🚀</div>  
+### <div align="center">I'm Ayni, a full-time Java developer 👨‍💻 working remotely 🚀</div>  
   
 
 - 🔭 I’m currently working on BYTE company   
