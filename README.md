@@ -23,7 +23,7 @@
 ### Frontend  
 <div align="center" style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;">  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" /></a>
-<a href="https://material.angular.io/" target="_blank"><img style="margin: 10px" src="[https://material.angular.io/assets/img/angular-material-logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugaNnVtNaWbuotvcCVAXAhUsuR3gGMjZqQyvdoew3eQ&s)" alt="Angular Material" height="50" /></a>
+<a href="https://material.angular.io/" target="_blank"><img style="margin: 10px" src="https://material.angular.io/assets/img/angular-material-logo.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTugaNnVtNaWbuotvcCVAXAhUsuR3gGMjZqQyvdoew3eQ&s)" alt="Angular Material" height="50" /></a>
 <a href="https://angular.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
 <a href="https://www.chartjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" /></a>  
